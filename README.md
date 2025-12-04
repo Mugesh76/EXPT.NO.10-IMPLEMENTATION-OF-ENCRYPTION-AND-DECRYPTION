@@ -108,6 +108,7 @@ printf("%c",m[i]);
 
 
 # OUTPUT:
+![IMG-20251121-WA0012](https://github.com/user-attachments/assets/e6ffbd3e-dc59-4bd7-922c-21d2dc3916ca)
 
  
 
